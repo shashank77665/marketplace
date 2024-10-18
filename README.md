@@ -27,7 +27,7 @@ App can be downloaded from [Google Drive](https://drive.google.com/file/d/1_1fYp
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img src="screenshots/Screenshot_1.jpeg" alt="Screenshot 1" width="300" style="margin: 10px;"/>
-    <img src="screenshots/Screenshot_2.png" alt="Screenshot 2" width="300" style="margin: 10px;"/>
+    <img src="screenshots/Screenshot_2.jpeg" alt="Screenshot 2" width="300" style="margin: 10px;"/>
     <img src="screenshots/Screenshot_3.jpeg" alt="Screenshot 3" width="300" style="margin: 10px;"/>
     <img src="screenshots/Screenshot_4.jpeg" alt="Screenshot 4" width="300" style="margin: 10px;"/>
     <img src="screenshots/Screenshot_5.jpeg" alt="Screenshot 5" width="300" style="margin: 10px;"/>
